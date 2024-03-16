@@ -1,9 +1,9 @@
 ## DemoSpringBoot
 
-#Prerequisitos
-Maven 3.8 o superiores 
-Java 17 tener configurado el JAVA_HOME
-Base de Datos Oracle
+Prerequisitos
+- Maven 3.8 o superiores 
+- Java 17 tener configurado el JAVA_HOME
+- Base de Datos Oracle
 
 # Pasos para levantar en localshot:8080
 En la base de datos Oracle crear la tabla usuarios con la siguiente sentencia SQL 
