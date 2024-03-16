@@ -1,11 +1,11 @@
 # DemoSpringBoot
 
-## Prerequisitos
+### Prerequisitos
 - Maven 3.8 o superiores 
 - Java 17 tener configurado el JAVA_HOME
 - Base de Datos Oracle
 
-## Pasos para levantar en localshot:8080
+### Pasos para levantar en localshot:8080
 En la base de datos Oracle crear la tabla usuarios con la siguiente sentencia SQL 
 CREATE TABLE usuario (
     id VARCHAR(36) PRIMARY KEY,
@@ -29,11 +29,11 @@ Situarse dentro del a carpeta DemoSpring y ejecutar el comando:
 
 # Demo Angular
 
-## Prerequisitos
+### Prerequisitos
 - Node Version >= 18.0.0 
 - Angualr CLI
 
-## Pasos para levantar en localhost:4200
+### Pasos para levantar en localhost:4200
 Situarse en la carpeta DemoAngual y ejecutar el comando 
 - npm install 
 - npm run start
